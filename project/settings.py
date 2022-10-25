@@ -28,6 +28,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'person_portfolio',
     'bootstrap4',
+    'mpesa'
 ]
 
 MIDDLEWARE = [
